@@ -1,4 +1,4 @@
-# HijrahDate [![Build Status](https://travis-ci.org/msarhan/hijrah-date.svg?branch=master)](https://travis-ci.org/msarhan/hijrah-date)
+# HijrahDate [![Build Status]
 Javascript date in the Hijrah calendar system.
 
 
