@@ -4,11 +4,11 @@
   "description": "A date in the Hijrah calendar system",
   "main": "hijrah-date.js",
   "keywords": "date, hijrah, hijri, calendar, islamic",
-  "author": "Mouaffak A. Sarhan <mouffaksarhan@gmail.com>",
+  "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/msarhan/hijrah-date.git"
+    "url": "git://github.com/sendtoazzam/javascript-hijrah.git"
   },
   "scripts": {
     "test": "gulp test"
